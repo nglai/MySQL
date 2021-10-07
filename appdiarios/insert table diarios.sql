@@ -1,1 +1,0 @@
-insert into diarios (idKeyDiario, diario, autor, imagem, localidade, titulo, idKey) values (null, "Estou chocada, abismada","Ng Lai", "iVBORw0KGg", "Flutterworld", "Flutter", "UG0t9DilYIPq8c5mBFuQAqCuXdL2");  
